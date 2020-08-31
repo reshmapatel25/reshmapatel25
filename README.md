@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Perform Foundational Infrastructure Tasks in Google Cloud and Classification and Neural networks, Angular.js.
 
 - 👯 I’m looking to colaborate on Technical article writing on topic of Google Cloud essentials,Object-oriented principles, Fundamental methods of Python for data science. 
-- As well as I am willing to perform a role of Technical Trainer cum developer.
+- As well as I am willing to wear a cap of Technical Trainer cum developer.
 
 - 💬 Ask me about Java fundamentals, OOP fundamentals, ORM fundamentals, Google Cloud essentials, Python libraires for Data science.
 
