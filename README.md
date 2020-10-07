@@ -3,6 +3,7 @@
 <!--
 **reshmapatel25/reshmapatel25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+- A little glance at my personal profile: https://reshmapatel25.github.io/reshmapatel25/
 
 - 🔭 I’m currently working on Google Cloud Qwiklabs which has rewarded me with the badges like,Google Cloud Essentials,Getting Started: Create and Manage Cloud Resources, Deploying Applications,Baseline: Infrastructure.
 
